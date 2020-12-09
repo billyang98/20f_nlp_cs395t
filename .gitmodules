@@ -1,0 +1,3 @@
+[submodule "project/artist-lyric-gen"]
+	path = project/artist-lyric-gen
+	url = https://github.com/Lucaskabela/artist-lyric-gen.git
