@@ -1,0 +1,9 @@
+To keep the proposal concise and consistent with the recommended 1-2 pages, we give the high level ideas without going into some of the details, which are explained in the many references that we included in our proposal. Your questions are mostly answered in our project proposal already.
+
+We will be using Genius' API to scrape lyrics, which also contains metadata relating to artist. 
+
+We referenced 2-3 papers that we plan to use as baselines. In particular (Potash et al.  2015) tackles the problem of lyric generation with respect to artists using an LSTM-based model similar to the one you have already described. Time permitted, we may also pursue other baselines such as using similar strategies but with Transformers.  
+
+We link a variety of references, including CVAE  (Yang  et  al.   2018), artist attribute models, (Dathathri et al.  2020), personas (Li et al. 2016 ), as potential approaches to change/include into our experiments to try and improve on this particular task.  We can combine techniques or make minor modifications.  We plan to do an ablation study if we choose multiple approaches, time permitting, to show which techniques were the most helpful. The details of these approaches are in the papers we referenced.
+
+I hope this clears up any questions you had. Sorry if the proposal was unclear.  Again we left out some of the details to keep the proposal under the recommended page length, as we thought these details were covered by the extensive references that we gave.
